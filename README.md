@@ -1,3 +1,8 @@
+# Developers
+
+Yoali Sotomayor Baqueiro A01650536
+Abraham Armando Silva Apanco A01651490
+
 # flutter_app
 
 A new Flutter application.
